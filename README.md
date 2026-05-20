@@ -131,15 +131,6 @@ Install these from the **Arduino IDE Library Manager** (`Sketch → Include Libr
 
 ---
 
-## Academic Details
-
-- **Institution:** REVA University, Bengaluru
-- **Course:** Computer Organization and Architecture (COA)
-- **Academic Year:** 2024–25
-- **Semester:** 4th
-
----
-
 ## Author
 
 **Thomson Sunny**  
